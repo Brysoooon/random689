@@ -1,4 +1,7 @@
 ### Hi there 👋
+----
+I'm Yong Chuan, currently a student at National University of Singapore, pursuing a degree in Data Science & seond major in Computer Science!
+
 
 <!--
 **random689/random689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
